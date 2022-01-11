@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 import static org.arakitski.deliveroo.parser.CronExpressionParser.parseCron;
 
 /**
- * Write a command line application or script which parses a cron string and expands each field
- * to show the times at which it will run.
+ * A command line application which parses a cron string and expands each field to show the times at which
+ * it will run.
  * <p>
  * The cron string will be passed to your application as a single argument.
  * <p>
