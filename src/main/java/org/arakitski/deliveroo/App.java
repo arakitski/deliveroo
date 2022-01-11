@@ -25,7 +25,7 @@ import static org.arakitski.deliveroo.parser.CronExpressionParser.parseCron;
  */
 public class App {
 
-    private static final String OUTPUT_FORMAT = "%-13s %s";
+    private static final String OUTPUT_FORMAT = "%-14s %s";
 
     public static void main(String[] args) {
         if (args == null) {
